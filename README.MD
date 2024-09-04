@@ -4,7 +4,7 @@
 This script securely stores keywords by creating an encrypted PGP-like key file and also provides a way to decode Base64 encoded strings
 
 
-1. How It WorksHow It WorksHow It Works
+1. How It Works
 Input Keywords:
 
 The script prompts you to enter up to three keywords. These keywords are securely embedded within the key file.
@@ -38,12 +38,3 @@ Decode Base64 Strings:
 
 
 
-
-
-
-
-
-
-
-
-ChatGPT can make m
